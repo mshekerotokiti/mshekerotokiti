@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on the Elewa project and the Kurunzi Website <br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next.js and Typescript<br>
+🔭 I’m currently working on the the Kurunzi Website <br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Next.js and Typescript<br>
 
 
 ## 🌐 Socials:
